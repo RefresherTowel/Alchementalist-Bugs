@@ -11,5 +11,5 @@ Firstly, sorry that the bug occurred! I'm squashing them as fast as I can find t
   * what enemy you were fighting (if any),
   * the level the bug occurred on,
   * any inputs that you were pressing (for instance, if the bug happened as you tried to dash or something like that).
-  * 
+
 Anything you might imagine could be useful probably will be, so include it all!
