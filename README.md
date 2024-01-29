@@ -4,7 +4,7 @@ Submit your Alchementalist bugs here!
 Firstly, sorry that the bug occurred! I'm squashing them as fast as I can find them.
 
 ## What to submit
-* If at all possible, please copy and paste the error message that was thrown into your issue submission, as that helps me track down issues immensely.
+* **If at all possible, please copy and paste the error message that was thrown into your issue submission, as that helps me track down issues immensely.**
 * Please provide a description of what was happening immediately prior to the bug occuring with as much detail as possible. Things like:
   * what wand you were using,
   * any spellboosts you had attached,
